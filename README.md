@@ -29,3 +29,4 @@
 * Использованы **Условное форматирование** и **Срезы** для интерактивного анализа.
 
 ##  Предварительный просмотр Дашборда
+<img width="1920" height="1080" alt="Desktop Screenshot 2025 12 04 - 16 39 07 01" src="https://github.com/user-attachments/assets/deebecfd-82bd-4462-83ec-4db087900aa0" />
